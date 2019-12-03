@@ -1,9 +1,8 @@
 # dayoung-s-App
-?덈뱶濡쒖씠???댄뵆
-![그림8](https://user-images.githubusercontent.com/55998706/70035944-2c25c680-15f7-11ea-823f-65d3b3e311ed.png)
-![그림9](https://user-images.githubusercontent.com/55998706/70035945-2c25c680-15f7-11ea-9e87-c33519a23e8d.png)
+안드로이드 프로젝트로 수업시간에 배운 내용들을 활용하여 만든 어플입니다.
+# 스크린샷
 ![그림10](https://user-images.githubusercontent.com/55998706/70035946-2c25c680-15f7-11ea-83e2-ed67e3fcb48e.png)
-![그림11](https://user-images.githubusercontent.com/55998706/70035947-2c25c680-15f7-11ea-83d6-087e8990ac34.png)
+![그림8](https://user-images.githubusercontent.com/55998706/70035944-2c25c680-15f7-11ea-823f-65d3b3e311ed.png)
 ![그림12](https://user-images.githubusercontent.com/55998706/70035948-2cbe5d00-15f7-11ea-8fa8-11ec4844311c.png)
 ![그림13](https://user-images.githubusercontent.com/55998706/70035949-2cbe5d00-15f7-11ea-83c0-95f509fcd72d.png)
 ![그림14](https://user-images.githubusercontent.com/55998706/70035950-2cbe5d00-15f7-11ea-9e3b-b66b5be621f2.png)
