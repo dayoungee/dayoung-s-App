@@ -1,10 +1,19 @@
 # dayoung-s-App
-¾Èµå·ÎÀÌµå ÇÁ·ÎÁ§Æ®·Î ¼ö¾÷½Ã°£¿¡ ¹è¿î ³»¿ëµéÀ» È°¿ëÇÏ¿© ¸¸µç ¾îÇÃÀÔ´Ï´Ù.
-# ½ºÅ©¸°¼¦
-![±×¸²8](https://user-images.githubusercontent.com/55998706/70035944-2c25c680-15f7-11ea-823f-65d3b3e311ed.png)
-![±×¸²12](https://user-images.githubusercontent.com/55998706/70035948-2cbe5d00-15f7-11ea-8fa8-11ec4844311c.png)
-![±×¸²13](https://user-images.githubusercontent.com/55998706/70035949-2cbe5d00-15f7-11ea-83c0-95f509fcd72d.png)
-![±×¸²14](https://user-images.githubusercontent.com/55998706/70035950-2cbe5d00-15f7-11ea-9e3b-b66b5be621f2.png)
-![±×¸²15](https://user-images.githubusercontent.com/55998706/70035951-2cbe5d00-15f7-11ea-8a47-ea1b858aecae.png)
-![±×¸²16](https://user-images.githubusercontent.com/55998706/70035953-2d56f380-15f7-11ea-9bb8-88ff6597f850.png)
-![±×¸²17](https://user-images.githubusercontent.com/55998706/70035955-2d56f380-15f7-11ea-9b98-43b14eaedcf6.png)
+ì•ˆë“œë¡œì´ë“œ í”„ë¡œì íŠ¸ë¡œ ìˆ˜ì—…ì‹œê°„ì— ë°°ìš´ ë‚´ìš©ë“¤ì„ í™œìš©í•˜ì—¬ ë§Œë“  ì–´í”Œì…ë‹ˆë‹¤.
+# ìŠ¤í¬ë¦°ìƒ·
+![ê·¸ë¦¼8](https://user-images.githubusercontent.com/55998706/70035944-2c25c680-15f7-11ea-823f-65d3b3e311ed.png)
+![ê·¸ë¦¼12](https://user-images.githubusercontent.com/55998706/70035948-2cbe5d00-15f7-11ea-8fa8-11ec4844311c.png)
+![ê·¸ë¦¼13](https://user-images.githubusercontent.com/55998706/70035949-2cbe5d00-15f7-11ea-83c0-95f509fcd72d.png)
+![ê·¸ë¦¼14](https://user-images.githubusercontent.com/55998706/70035950-2cbe5d00-15f7-11ea-9e3b-b66b5be621f2.png)
+![ê·¸ë¦¼15](https://user-images.githubusercontent.com/55998706/70035951-2cbe5d00-15f7-11ea-8a47-ea1b858aecae.png)
+![ê·¸ë¦¼16](https://user-images.githubusercontent.com/55998706/70035953-2d56f380-15f7-11ea-9bb8-88ff6597f850.png)
+![ê·¸ë¦¼17](https://user-images.githubusercontent.com/55998706/70035955-2d56f380-15f7-11ea-9b98-43b14eaedcf6.png)
+# ê¸°ëŠ¥
+1. ê°€ìœ„ë°”ìœ„ë³´ íƒ­
+2. ë©”ëª¨ íƒ­ 
+ - ì‚­ì œ ê°€ëŠ¥
+ - ìˆ˜ì • ê°€ëŠ¥
+ - í•œê¸€í™”ê°€ ì•ˆë¨
+ - ì…ë ¥ ê°€ëŠ¥
+ - ê°ê° ë‹¬ë ¥ì˜ ë‚ ì§œë§ˆë‹¤ ë©”ëª¨
+3. ì´ë¯¸ì§€ íƒ­
